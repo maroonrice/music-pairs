@@ -162,7 +162,7 @@ export default {
       { name: "START!! True dreams", url: "https://www.youtube.com/embed/HGkoec4genw?autoplay=1" },
       { name: "Tiny Stars", url: "https://www.youtube.com/embed/gmpCJnMfMR4?autoplay=1" },
       { name: "常夏☆サンシャイン", url: "https://www.youtube.com/embed/XR3h_agJgXQ?start=5&autoplay=1" },
-      { name: "Wish Song", url: "https://www.youtube.com/embed/KL2l7nH8Uu?autoplay=1" },
+      { name: "Wish Song", url: "https://www.youtube.com/embed/KL2l7nH8Uus?autoplay=1" },
       { name: "ノンフィクション!!", url: "https://www.youtube.com/embed/_oZ3EcOO5xU?start=2&autoplay=1" },
       { name: "Starlight Prologue", url: "https://www.youtube.com/embed/Ccyjkq75T9E?start=20&autoplay=1" },
       { name: "WE WILL!!", url: "https://www.youtube.com/embed/2tJGGmJhm_E?autoplay=1" },
