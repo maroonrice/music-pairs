@@ -9,8 +9,5 @@ export default defineConfig({
   plugins: [
 		vue(),
 		vuetify({ autoImport: true }),
-	],
-	build: {
-		outDir: "docs"
-	}
+	]
 })
